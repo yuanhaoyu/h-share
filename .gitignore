@@ -1,0 +1,14 @@
+/.git
+/.sass-cache
+/compressed
+.DS_Store
+node_modules
+.idea
+.DS_Store
+neurons
+/serverdist
+.happypack/
+.vscode/
+apiList.json
+npm-debug.log
+.cache

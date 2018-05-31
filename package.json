@@ -1,0 +1,25 @@
+{
+  "name": "h-share",
+  "version": "0.0.1",
+  "description": "share plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel build ./test/src/index.html  -d test/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuanhaoyu/h-share.git"
+  },
+  "keywords": [
+    "share"
+  ],
+  "author": "Houn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuanhaoyu/h-share/issues"
+  },
+  "homepage": "https://github.com/yuanhaoyu/h-share#readme",
+  "dependencies": {
+    "happy-ua": "^1.0.3"
+  }
+}
