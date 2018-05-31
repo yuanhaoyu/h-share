@@ -4,7 +4,7 @@ a share plugin
 ## Quick start
 
 ```javascript
-import share from 'h-share';
+import share from 'happy-share';
 share({
     title: 'my title',
     summary: 'my summary',
